@@ -10,5 +10,4 @@ ogni Studente può iscriversi a più appelli di Esame;
 per ogni appello d'Esame a cui lo Studente ha partecipato, è necessario memorizzare il voto ottenuto, anche se non sufficiente.
 Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi di stabilirne le relazioni. Infine, andiamo a definire le colonne e i tipi di dato di ogni tabella.
 Utilizzare https://www.drawio.com/ per la creazione dello schema. Esportare quindi il diagramma in jpg e caricarlo nella repo.
-Link ai gruppi -> https://docs.google.com/spreadsheets/d/1JfgK4ZeG8EH73uEiSsA8CmeEOUqYG2bBoR3V1Fm0nPM/edit?gid=0#gid=0
 Non registreremo l'esercitazione, in quanto non si tratta di una lezione. Chi è assente deve lavorare all'esercizio in autonomia e lo consegna caricando su Github l'immagine del proprio diagramma.
